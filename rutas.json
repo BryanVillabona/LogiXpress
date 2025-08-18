@@ -1,0 +1,102 @@
+[
+  {
+    "codigo": "RUT001",
+    "origen": "OFI001",
+    "destino": "Medellín",
+    "kilometros": 415,
+    "vehiculo_asignado": "VEH001",
+    "repartidor_asignado": "REP001",
+    "paradas": ["La Pintada", "Santa Bárbara", "Envigado"],
+    "estado": "en curso"
+  },
+  {
+    "codigo": "RUT002",
+    "origen": "OFI002",
+    "destino": "Barranquilla",
+    "kilometros": 1005,
+    "vehiculo_asignado": "VEH002",
+    "repartidor_asignado": "REP002",
+    "paradas": ["Ciénaga", "Santa Marta", "Puerto Colombia"],
+    "estado": "planificada"
+  },
+  {
+    "codigo": "RUT003",
+    "origen": "OFI002",
+    "destino": "Soledad",
+    "kilometros": 1008,
+    "vehiculo_asignado": "VEH003",
+    "repartidor_asignado": "REP003",
+    "paradas": ["Malambo", "Sabanagrande"],
+    "estado": "en curso"
+  },
+  {
+    "codigo": "RUT004",
+    "origen": "OFI003",
+    "destino": "Bucaramanga",
+    "kilometros": 400,
+    "vehiculo_asignado": "VEH004",
+    "repartidor_asignado": "REP004",
+    "paradas": ["Girón", "Floridablanca"],
+    "estado": "planificada"
+  },
+  {
+    "codigo": "RUT005",
+    "origen": "OFI004",
+    "destino": "Cali",
+    "kilometros": 460,
+    "vehiculo_asignado": "VEH005",
+    "repartidor_asignado": "REP005",
+    "paradas": ["Palmira", "Yumbo", "Jamundí"],
+    "estado": "en curso"
+  },
+  {
+    "codigo": "RUT006",
+    "origen": "OFI005",
+    "destino": "Pereira",
+    "kilometros": 320,
+    "vehiculo_asignado": "VEH006",
+    "repartidor_asignado": "REP006",
+    "paradas": ["Armenia", "Cartago"],
+    "estado": "completada"
+  },
+  {
+    "codigo": "RUT007",
+    "origen": "OFI006",
+    "destino": "Villavicencio",
+    "kilometros": 120,
+    "vehiculo_asignado": "VEH007",
+    "repartidor_asignado": "REP007",
+    "paradas": ["Restrepo", "Cumaral"],
+    "estado": "en curso"
+  },
+  {
+    "codigo": "RUT008",
+    "origen": "OFI007",
+    "destino": "Cúcuta",
+    "kilometros": 570,
+    "vehiculo_asignado": "VEH008",
+    "repartidor_asignado": "REP008",
+    "paradas": ["Pamplona", "Los Patios"],
+    "estado": "planificada"
+  },
+  {
+    "codigo": "RUT009",
+    "origen": "OFI008",
+    "destino": "Montería",
+    "kilometros": 760,
+    "vehiculo_asignado": "VEH009",
+    "repartidor_asignado": "REP009",
+    "paradas": ["Sincelejo", "Lorica"],
+    "estado": "planificada"
+  },
+  {
+    "codigo": "RUT010",
+    "origen": "OFI009",
+    "destino": "Manizales",
+    "kilometros": 290,
+    "vehiculo_asignado": "VEH010",
+    "repartidor_asignado": "REP010",
+    "paradas": ["Chinchiná", "Santa Rosa de Cabal"],
+    "estado": "completada"
+  }
+]
