@@ -1,0 +1,172 @@
+[
+  {
+    "codigo": "CLI001",
+    "nombre": "Juan Pérez",
+    "tipo": "persona",
+    "identificacion": "1023456789",
+    "contacto": {
+      "telefono": "+57 3104567890",
+      "email": "juan.perez@gmail.com"
+    },
+    "direccion": {
+      "calle": "Cra. 45 #23-12",
+      "ciudad": "Bogotá",
+      "departamento": "Cundinamarca"
+    },
+    "oficina_registro": "OFI001",
+    "envios_previos": ["ENV001", "ENV003"]
+  },
+  {
+    "codigo": "CLI002",
+    "nombre": "María González",
+    "tipo": "persona",
+    "identificacion": "1034567890",
+    "contacto": {
+      "telefono": "+57 3112345678",
+      "email": "maria.gonzalez@hotmail.com"
+    },
+    "direccion": {
+      "calle": "Cl. 20 #15-40",
+      "ciudad": "Medellín",
+      "departamento": "Antioquia"
+    },
+    "oficina_registro": "OFI002",
+    "envios_previos": ["ENV002"]
+  },
+  {
+    "codigo": "CLI003",
+    "nombre": "Distribuciones El Éxito S.A.S.",
+    "tipo": "empresa",
+    "identificacion": "900123456-7",
+    "contacto": {
+      "telefono": "+57 6041234567",
+      "email": "contacto@exito.com.co"
+    },
+    "direccion": {
+      "calle": "Cra. 48 #32-10",
+      "ciudad": "Medellín",
+      "departamento": "Antioquia"
+    },
+    "oficina_registro": "OFI002",
+    "envios_previos": ["ENV004", "ENV005", "ENV010"]
+  },
+  {
+    "codigo": "CLI004",
+    "nombre": "Pedro Ramírez",
+    "tipo": "persona",
+    "identificacion": "1122334455",
+    "contacto": {
+      "telefono": "+57 3209876543",
+      "email": "pedro.ramirez@yahoo.com"
+    },
+    "direccion": {
+      "calle": "Av. 3N #56-78",
+      "ciudad": "Cali",
+      "departamento": "Valle del Cauca"
+    },
+    "oficina_registro": "OFI003",
+    "envios_previos": []
+  },
+  {
+    "codigo": "CLI005",
+    "nombre": "Ana Torres",
+    "tipo": "persona",
+    "identificacion": "1098765432",
+    "contacto": {
+      "telefono": "+57 3145678901",
+      "email": "ana.torres@gmail.com"
+    },
+    "direccion": {
+      "calle": "Cl. 79 #51B-20",
+      "ciudad": "Barranquilla",
+      "departamento": "Atlántico"
+    },
+    "oficina_registro": "OFI004",
+    "envios_previos": ["ENV006"]
+  },
+  {
+    "codigo": "CLI006",
+    "nombre": "Hotel Caribe Cartagena",
+    "tipo": "empresa",
+    "identificacion": "890765432-1",
+    "contacto": {
+      "telefono": "+57 6057894561",
+      "email": "reservas@hotelcaribe.com.co"
+    },
+    "direccion": {
+      "calle": "Cl. 32 #10-25",
+      "ciudad": "Cartagena",
+      "departamento": "Bolívar"
+    },
+    "oficina_registro": "OFI005",
+    "envios_previos": ["ENV007", "ENV008"]
+  },
+  {
+    "codigo": "CLI007",
+    "nombre": "Sofía Herrera",
+    "tipo": "persona",
+    "identificacion": "1012349876",
+    "contacto": {
+      "telefono": "+57 3123456789",
+      "email": "sofia.herrera@gmail.com"
+    },
+    "direccion": {
+      "calle": "Cra. 27 #54-20",
+      "ciudad": "Bucaramanga",
+      "departamento": "Santander"
+    },
+    "oficina_registro": "OFI006",
+    "envios_previos": []
+  },
+  {
+    "codigo": "CLI008",
+    "nombre": "Papelería La 14",
+    "tipo": "empresa",
+    "identificacion": "800456789-0",
+    "contacto": {
+      "telefono": "+57 6084567890",
+      "email": "contacto@papeleriala14.com"
+    },
+    "direccion": {
+      "calle": "Cl. 10 #2-35",
+      "ciudad": "Cúcuta",
+      "departamento": "Norte de Santander"
+    },
+    "oficina_registro": "OFI008",
+    "envios_previos": ["ENV009"]
+  },
+  {
+    "codigo": "CLI009",
+    "nombre": "Luis Fernández",
+    "tipo": "persona",
+    "identificacion": "1009876543",
+    "contacto": {
+      "telefono": "+57 3156789012",
+      "email": "luis.fernandez@hotmail.com"
+    },
+    "direccion": {
+      "calle": "Cra. 40 #22-15",
+      "ciudad": "Villavicencio",
+      "departamento": "Meta"
+    },
+    "oficina_registro": "OFI009",
+    "envios_previos": []
+  },
+  {
+    "codigo": "CLI010",
+    "nombre": "Café Manizales S.A.",
+    "tipo": "empresa",
+    "identificacion": "890123789-5",
+    "contacto": {
+      "telefono": "+57 6067891234",
+      "email": "ventas@cafemanizales.com.co"
+    },
+    "direccion": {
+      "calle": "Cl. 19 #21-45",
+      "ciudad": "Manizales",
+      "departamento": "Caldas"
+    },
+    "oficina_registro": "OFI010",
+    "envios_previos": ["ENV011", "ENV012"]
+  }
+]
