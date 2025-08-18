@@ -1,0 +1,102 @@
+[
+  {
+    "codigo": "VEH001",
+    "tipo": "Camión",
+    "placa": "ABC123",
+    "capacidad_kg": 5000,
+    "modelo": "Chevrolet NPR 2020",
+    "estado": "activo",
+    "oficina_asignada": "OFI001",
+    "repartidor_asignado": "REP001"
+  },
+  {
+    "codigo": "VEH002",
+    "tipo": "Furgoneta",
+    "placa": "BCD234",
+    "capacidad_kg": 1500,
+    "modelo": "Renault Master 2019",
+    "estado": "activo",
+    "oficina_asignada": "OFI002",
+    "repartidor_asignado": "REP002"
+  },
+  {
+    "codigo": "VEH003",
+    "tipo": "Motocicleta",
+    "placa": "CDE345",
+    "capacidad_kg": 200,
+    "modelo": "Yamaha FZ 2021",
+    "estado": "activo",
+    "oficina_asignada": "OFI002",
+    "repartidor_asignado": "REP003"
+  },
+  {
+    "codigo": "VEH004",
+    "tipo": "Furgoneta",
+    "placa": "DEF456",
+    "capacidad_kg": 1200,
+    "modelo": "Nissan NV350 2018",
+    "estado": "mantenimiento",
+    "oficina_asignada": "OFI003",
+    "repartidor_asignado": "REP004"
+  },
+  {
+    "codigo": "VEH005",
+    "tipo": "Camión",
+    "placa": "EFG567",
+    "capacidad_kg": 4500,
+    "modelo": "Hino 500 2020",
+    "estado": "activo",
+    "oficina_asignada": "OFI004",
+    "repartidor_asignado": "REP005"
+  },
+  {
+    "codigo": "VEH006",
+    "tipo": "Furgoneta",
+    "placa": "FGH678",
+    "capacidad_kg": 1000,
+    "modelo": "Ford Transit 2019",
+    "estado": "activo",
+    "oficina_asignada": "OFI005",
+    "repartidor_asignado": "REP006"
+  },
+  {
+    "codigo": "VEH007",
+    "tipo": "Motocicleta",
+    "placa": "GHI789",
+    "capacidad_kg": 180,
+    "modelo": "Honda CB 2022",
+    "estado": "activo",
+    "oficina_asignada": "OFI006",
+    "repartidor_asignado": "REP007"
+  },
+  {
+    "codigo": "VEH008",
+    "tipo": "Camión",
+    "placa": "HIJ890",
+    "capacidad_kg": 6000,
+    "modelo": "Mercedes Atego 2021",
+    "estado": "activo",
+    "oficina_asignada": "OFI007",
+    "repartidor_asignado": "REP008"
+  },
+  {
+    "codigo": "VEH009",
+    "tipo": "Furgoneta",
+    "placa": "IJK901",
+    "capacidad_kg": 1400,
+    "modelo": "Fiat Ducato 2018",
+    "estado": "mantenimiento",
+    "oficina_asignada": "OFI008",
+    "repartidor_asignado": "REP009"
+  },
+  {
+    "codigo": "VEH010",
+    "tipo": "Camión",
+    "placa": "JKL012",
+    "capacidad_kg": 4800,
+    "modelo": "International 4300 2020",
+    "estado": "activo",
+    "oficina_asignada": "OFI009",
+    "repartidor_asignado": "REP010"
+  }
+]
