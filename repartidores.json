@@ -1,0 +1,102 @@
+[
+  {
+    "codigo": "REP001",
+    "nombre": "Carlos Ramírez",
+    "cedula": "1012456789",
+    "telefono": "+57 3104567890",
+    "email": "carlos.ramirez@logixpress.com",
+    "oficina_asignada": "OFI001",
+    "vehiculo_asignado": "VEH001",
+    "rutas_asignadas": ["RUT001", "RUT002"]
+  },
+  {
+    "codigo": "REP002",
+    "nombre": "Andrés López",
+    "cedula": "1023456789",
+    "telefono": "+57 3112345678",
+    "email": "andres.lopez@logixpress.com",
+    "oficina_asignada": "OFI002",
+    "vehiculo_asignado": "VEH002",
+    "rutas_asignadas": ["RUT003"]
+  },
+  {
+    "codigo": "REP003",
+    "nombre": "Laura Gómez",
+    "cedula": "1034567890",
+    "telefono": "+57 3201234567",
+    "email": "laura.gomez@logixpress.com",
+    "oficina_asignada": "OFI002",
+    "vehiculo_asignado": "VEH003",
+    "rutas_asignadas": ["RUT004", "RUT005"]
+  },
+  {
+    "codigo": "REP004",
+    "nombre": "Felipe Torres",
+    "cedula": "1045678901",
+    "telefono": "+57 3123456789",
+    "email": "felipe.torres@logixpress.com",
+    "oficina_asignada": "OFI003",
+    "vehiculo_asignado": "VEH004",
+    "rutas_asignadas": ["RUT006"]
+  },
+  {
+    "codigo": "REP005",
+    "nombre": "Diana Martínez",
+    "cedula": "1056789012",
+    "telefono": "+57 3012345678",
+    "email": "diana.martinez@logixpress.com",
+    "oficina_asignada": "OFI004",
+    "vehiculo_asignado": "VEH005",
+    "rutas_asignadas": ["RUT007", "RUT008"]
+  },
+  {
+    "codigo": "REP006",
+    "nombre": "Jorge Herrera",
+    "cedula": "1067890123",
+    "telefono": "+57 3156789012",
+    "email": "jorge.herrera@logixpress.com",
+    "oficina_asignada": "OFI005",
+    "vehiculo_asignado": "VEH006",
+    "rutas_asignadas": ["RUT009"]
+  },
+  {
+    "codigo": "REP007",
+    "nombre": "Camila Rodríguez",
+    "cedula": "1078901234",
+    "telefono": "+57 3167890123",
+    "email": "camila.rodriguez@logixpress.com",
+    "oficina_asignada": "OFI006",
+    "vehiculo_asignado": "VEH007",
+    "rutas_asignadas": ["RUT010", "RUT011"]
+  },
+  {
+    "codigo": "REP008",
+    "nombre": "Santiago Álvarez",
+    "cedula": "1089012345",
+    "telefono": "+57 3178901234",
+    "email": "santiago.alvarez@logixpress.com",
+    "oficina_asignada": "OFI007",
+    "vehiculo_asignado": "VEH008",
+    "rutas_asignadas": ["RUT012"]
+  },
+  {
+    "codigo": "REP009",
+    "nombre": "Natalia Castro",
+    "cedula": "1090123456",
+    "telefono": "+57 3189012345",
+    "email": "natalia.castro@logixpress.com",
+    "oficina_asignada": "OFI008",
+    "vehiculo_asignado": "VEH009",
+    "rutas_asignadas": ["RUT013"]
+  },
+  {
+    "codigo": "REP010",
+    "nombre": "Ricardo Mejía",
+    "cedula": "1101234567",
+    "telefono": "+57 3190123456",
+    "email": "ricardo.mejia@logixpress.com",
+    "oficina_asignada": "OFI009",
+    "vehiculo_asignado": "VEH010",
+    "rutas_asignadas": ["RUT014", "RUT015"]
+  }
+]
