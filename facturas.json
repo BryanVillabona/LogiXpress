@@ -1,0 +1,142 @@
+[
+  {
+    "codigo_factura": "FAC001",
+    "envio_id": "ENV001",
+    "cliente_id": "CLI001",
+    "fecha_emision": "2025-08-01",
+    "monto_total": 380000,
+    "detalle": {
+      "costo_envio": 30000,
+      "seguro": 15000,
+      "valor_paquete": 335000
+    },
+    "estado": "pagada",
+    "metodo_pago": "tarjeta crédito"
+  },
+  {
+    "codigo_factura": "FAC002",
+    "envio_id": "ENV002",
+    "cliente_id": "CLI002",
+    "fecha_emision": "2025-08-02",
+    "monto_total": 135000,
+    "detalle": {
+      "costo_envio": 15000,
+      "seguro": 0,
+      "valor_paquete": 120000
+    },
+    "estado": "pendiente",
+    "metodo_pago": "transferencia bancaria"
+  },
+  {
+    "codigo_factura": "FAC003",
+    "envio_id": "ENV003",
+    "cliente_id": "CLI003",
+    "fecha_emision": "2025-08-03",
+    "monto_total": 980000,
+    "detalle": {
+      "costo_envio": 30000,
+      "seguro": 0,
+      "valor_paquete": 950000
+    },
+    "estado": "pagada",
+    "metodo_pago": "efectivo"
+  },
+  {
+    "codigo_factura": "FAC004",
+    "envio_id": "ENV004",
+    "cliente_id": "CLI004",
+    "fecha_emision": "2025-08-01",
+    "monto_total": 1235000,
+    "detalle": {
+      "costo_envio": 15000,
+      "seguro": 20000,
+      "valor_paquete": 1200000
+    },
+    "estado": "pagada",
+    "metodo_pago": "tarjeta débito"
+  },
+  {
+    "codigo_factura": "FAC005",
+    "envio_id": "ENV005",
+    "cliente_id": "CLI005",
+    "fecha_emision": "2025-07-28",
+    "monto_total": 275000,
+    "detalle": {
+      "costo_envio": 25000,
+      "seguro": 0,
+      "valor_paquete": 250000
+    },
+    "estado": "devuelta",
+    "metodo_pago": "tarjeta crédito"
+  },
+  {
+    "codigo_factura": "FAC006",
+    "envio_id": "ENV006",
+    "cliente_id": "CLI006",
+    "fecha_emision": "2025-08-04",
+    "monto_total": 510000,
+    "detalle": {
+      "costo_envio": 30000,
+      "seguro": 20000,
+      "valor_paquete": 460000
+    },
+    "estado": "pendiente",
+    "metodo_pago": "efectivo"
+  },
+  {
+    "codigo_factura": "FAC007",
+    "envio_id": "ENV007",
+    "cliente_id": "CLI007",
+    "fecha_emision": "2025-08-05",
+    "monto_total": 2050000,
+    "detalle": {
+      "costo_envio": 50000,
+      "seguro": 0,
+      "valor_paquete": 2000000
+    },
+    "estado": "pendiente",
+    "metodo_pago": "transferencia bancaria"
+  },
+  {
+    "codigo_factura": "FAC008",
+    "envio_id": "ENV008",
+    "cliente_id": "CLI008",
+    "fecha_emision": "2025-08-02",
+    "monto_total": 195000,
+    "detalle": {
+      "costo_envio": 15000,
+      "seguro": 0,
+      "valor_paquete": 180000
+    },
+    "estado": "pagada",
+    "metodo_pago": "tarjeta crédito"
+  },
+  {
+    "codigo_factura": "FAC009",
+    "envio_id": "ENV009",
+    "cliente_id": "CLI009",
+    "fecha_emision": "2025-08-03",
+    "monto_total": 890000,
+    "detalle": {
+      "costo_envio": 40000,
+      "seguro": 0,
+      "valor_paquete": 850000
+    },
+    "estado": "pagada",
+    "metodo_pago": "tarjeta débito"
+  },
+  {
+    "codigo_factura": "FAC010",
+    "envio_id": "ENV010",
+    "cliente_id": "CLI010",
+    "fecha_emision": "2025-08-06",
+    "monto_total": 115000,
+    "detalle": {
+      "costo_envio": 20000,
+      "seguro": 0,
+      "valor_paquete": 95000
+    },
+    "estado": "pendiente",
+    "metodo_pago": "efectivo"
+  }
+]
