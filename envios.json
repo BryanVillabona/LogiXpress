@@ -1,0 +1,202 @@
+[
+  {
+    "codigo_envio": "ENV001",
+    "cliente_id": "CLI001",
+    "origen_oficina": "OFI001",
+    "destino_oficina": "OFI002",
+    "ruta_asignada": "RUT001",
+    "detalle_paquete": {
+      "peso_kg": 2.5,
+      "dimensiones_cm": { "largo": 30, "ancho": 20, "alto": 10 },
+      "descripcion": "Electrodoméstico pequeño - licuadora",
+      "valor_declarado": 350000
+    },
+    "estado": "en tránsito",
+    "fecha_envio": "2025-08-01",
+    "fecha_entrega_estimada": "2025-08-03",
+    "historial_estados": [
+      { "estado": "pendiente", "fecha": "2025-08-01" },
+      { "estado": "en tránsito", "fecha": "2025-08-02" }
+    ]
+  },
+  {
+    "codigo_envio": "ENV002",
+    "cliente_id": "CLI002",
+    "origen_oficina": "OFI002",
+    "destino_oficina": "OFI003",
+    "ruta_asignada": "RUT002",
+    "detalle_paquete": {
+      "peso_kg": 1.2,
+      "dimensiones_cm": { "largo": 25, "ancho": 15, "alto": 8 },
+      "descripcion": "Libros universitarios",
+      "valor_declarado": 120000
+    },
+    "estado": "pendiente",
+    "fecha_envio": "2025-08-02",
+    "fecha_entrega_estimada": "2025-08-04",
+    "historial_estados": [
+      { "estado": "pendiente", "fecha": "2025-08-02" }
+    ]
+  },
+  {
+    "codigo_envio": "ENV003",
+    "cliente_id": "CLI003",
+    "origen_oficina": "OFI004",
+    "destino_oficina": "OFI001",
+    "ruta_asignada": "RUT003",
+    "detalle_paquete": {
+      "peso_kg": 15,
+      "dimensiones_cm": { "largo": 80, "ancho": 60, "alto": 50 },
+      "descripcion": "Muebles de oficina - silla ergonómica",
+      "valor_declarado": 950000
+    },
+    "estado": "en tránsito",
+    "fecha_envio": "2025-08-03",
+    "fecha_entrega_estimada": "2025-08-05",
+    "historial_estados": [
+      { "estado": "pendiente", "fecha": "2025-08-03" },
+      { "estado": "en tránsito", "fecha": "2025-08-04" }
+    ]
+  },
+  {
+    "codigo_envio": "ENV004",
+    "cliente_id": "CLI004",
+    "origen_oficina": "OFI003",
+    "destino_oficina": "OFI005",
+    "ruta_asignada": "RUT004",
+    "detalle_paquete": {
+      "peso_kg": 0.8,
+      "dimensiones_cm": { "largo": 15, "ancho": 12, "alto": 5 },
+      "descripcion": "Teléfono móvil",
+      "valor_declarado": 1200000
+    },
+    "estado": "entregado",
+    "fecha_envio": "2025-08-01",
+    "fecha_entrega_estimada": "2025-08-02",
+    "historial_estados": [
+      { "estado": "pendiente", "fecha": "2025-08-01" },
+      { "estado": "en tránsito", "fecha": "2025-08-01" },
+      { "estado": "entregado", "fecha": "2025-08-02" }
+    ]
+  },
+  {
+    "codigo_envio": "ENV005",
+    "cliente_id": "CLI005",
+    "origen_oficina": "OFI002",
+    "destino_oficina": "OFI006",
+    "ruta_asignada": "RUT005",
+    "detalle_paquete": {
+      "peso_kg": 3.4,
+      "dimensiones_cm": { "largo": 40, "ancho": 25, "alto": 20 },
+      "descripcion": "Ropa - pedido tienda online",
+      "valor_declarado": 250000
+    },
+    "estado": "devuelto",
+    "fecha_envio": "2025-07-28",
+    "fecha_entrega_estimada": "2025-07-30",
+    "historial_estados": [
+      { "estado": "pendiente", "fecha": "2025-07-28" },
+      { "estado": "en tránsito", "fecha": "2025-07-29" },
+      { "estado": "devuelto", "fecha": "2025-07-30" }
+    ]
+  },
+  {
+    "codigo_envio": "ENV006",
+    "cliente_id": "CLI006",
+    "origen_oficina": "OFI006",
+    "destino_oficina": "OFI007",
+    "ruta_asignada": "RUT006",
+    "detalle_paquete": {
+      "peso_kg": 6,
+      "dimensiones_cm": { "largo": 55, "ancho": 35, "alto": 25 },
+      "descripcion": "Electrodoméstico - microondas",
+      "valor_declarado": 480000
+    },
+    "estado": "en tránsito",
+    "fecha_envio": "2025-08-04",
+    "fecha_entrega_estimada": "2025-08-06",
+    "historial_estados": [
+      { "estado": "pendiente", "fecha": "2025-08-04" },
+      { "estado": "en tránsito", "fecha": "2025-08-05" }
+    ]
+  },
+  {
+    "codigo_envio": "ENV007",
+    "cliente_id": "CLI007",
+    "origen_oficina": "OFI007",
+    "destino_oficina": "OFI008",
+    "ruta_asignada": "RUT007",
+    "detalle_paquete": {
+      "peso_kg": 20,
+      "dimensiones_cm": { "largo": 120, "ancho": 80, "alto": 60 },
+      "descripcion": "Electrodoméstico - nevera pequeña",
+      "valor_declarado": 2000000
+    },
+    "estado": "pendiente",
+    "fecha_envio": "2025-08-05",
+    "fecha_entrega_estimada": "2025-08-07",
+    "historial_estados": [
+      { "estado": "pendiente", "fecha": "2025-08-05" }
+    ]
+  },
+  {
+    "codigo_envio": "ENV008",
+    "cliente_id": "CLI008",
+    "origen_oficina": "OFI009",
+    "destino_oficina": "OFI010",
+    "ruta_asignada": "RUT008",
+    "detalle_paquete": {
+      "peso_kg": 0.5,
+      "dimensiones_cm": { "largo": 10, "ancho": 10, "alto": 5 },
+      "descripcion": "Accesorios de tecnología - audífonos",
+      "valor_declarado": 180000
+    },
+    "estado": "entregado",
+    "fecha_envio": "2025-08-02",
+    "fecha_entrega_estimada": "2025-08-03",
+    "historial_estados": [
+      { "estado": "pendiente", "fecha": "2025-08-02" },
+      { "estado": "en tránsito", "fecha": "2025-08-02" },
+      { "estado": "entregado", "fecha": "2025-08-03" }
+    ]
+  },
+  {
+    "codigo_envio": "ENV009",
+    "cliente_id": "CLI009",
+    "origen_oficina": "OFI005",
+    "destino_oficina": "OFI001",
+    "ruta_asignada": "RUT009",
+    "detalle_paquete": {
+      "peso_kg": 7.5,
+      "dimensiones_cm": { "largo": 60, "ancho": 40, "alto": 35 },
+      "descripcion": "Instrumento musical - guitarra acústica",
+      "valor_declarado": 850000
+    },
+    "estado": "en tránsito",
+    "fecha_envio": "2025-08-03",
+    "fecha_entrega_estimada": "2025-08-05",
+    "historial_estados": [
+      { "estado": "pendiente", "fecha": "2025-08-03" },
+      { "estado": "en tránsito", "fecha": "2025-08-04" }
+    ]
+  },
+  {
+    "codigo_envio": "ENV010",
+    "cliente_id": "CLI010",
+    "origen_oficina": "OFI010",
+    "destino_oficina": "OFI004",
+    "ruta_asignada": "RUT010",
+    "detalle_paquete": {
+      "peso_kg": 1.8,
+      "dimensiones_cm": { "largo": 28, "ancho": 18, "alto": 12 },
+      "descripcion": "Cosméticos y cuidado personal",
+      "valor_declarado": 95000
+    },
+    "estado": "pendiente",
+    "fecha_envio": "2025-08-06",
+    "fecha_entrega_estimada": "2025-08-08",
+    "historial_estados": [
+      { "estado": "pendiente", "fecha": "2025-08-06" }
+    ]
+  }
+]
