@@ -1,0 +1,92 @@
+[
+  {
+    "codigo": "OFI001",
+    "ciudad": "Bogotá",
+    "direccion": "Cra. 68 #24-39, Fontibón",
+    "telefono": "+57 1 3901234",
+    "email": "bogota@logixpress.com",
+    "horario": { "apertura": "08:00", "cierre": "18:00" },
+    "servicios": ["recepción", "almacenamiento", "distribución"]
+  },
+  {
+    "codigo": "OFI002",
+    "ciudad": "Medellín",
+    "direccion": "Cl. 30 #65-25, Belén",
+    "telefono": "+57 4 2045678",
+    "email": "medellin@logixpress.com",
+    "horario": { "apertura": "08:00", "cierre": "18:00" },
+    "servicios": ["recepción", "distribución"]
+  },
+  {
+    "codigo": "OFI003",
+    "ciudad": "Cali",
+    "direccion": "Av. 3N #45-10, Versalles",
+    "telefono": "+57 2 3876543",
+    "email": "cali@logixpress.com",
+    "horario": { "apertura": "08:30", "cierre": "17:30" },
+    "servicios": ["recepción", "almacenamiento"]
+  },
+  {
+    "codigo": "OFI004",
+    "ciudad": "Barranquilla",
+    "direccion": "Cl. 79 #51B-90, El Prado",
+    "telefono": "+57 5 3017890",
+    "email": "barranquilla@logixpress.com",
+    "horario": { "apertura": "09:00", "cierre": "18:00" },
+    "servicios": ["recepción", "distribución"]
+  },
+  {
+    "codigo": "OFI005",
+    "ciudad": "Cartagena",
+    "direccion": "Cl. 32 #10-25, Centro Histórico",
+    "telefono": "+57 5 6723456",
+    "email": "cartagena@logixpress.com",
+    "horario": { "apertura": "08:00", "cierre": "17:00" },
+    "servicios": ["recepción"]
+  },
+  {
+    "codigo": "OFI006",
+    "ciudad": "Bucaramanga",
+    "direccion": "Cra. 27 #54-20, Cabecera",
+    "telefono": "+57 7 6854321",
+    "email": "bucaramanga@logixpress.com",
+    "horario": { "apertura": "08:00", "cierre": "17:30" },
+    "servicios": ["recepción", "almacenamiento"]
+  },
+  {
+    "codigo": "OFI007",
+    "ciudad": "Pereira",
+    "direccion": "Av. Circunvalar #15-20",
+    "telefono": "+57 6 3204567",
+    "email": "pereira@logixpress.com",
+    "horario": { "apertura": "08:00", "cierre": "18:00" },
+    "servicios": ["recepción", "distribución"]
+  },
+  {
+    "codigo": "OFI008",
+    "ciudad": "Cúcuta",
+    "direccion": "Cl. 10 #2-35, Centro",
+    "telefono": "+57 7 5768901",
+    "email": "cucuta@logixpress.com",
+    "horario": { "apertura": "09:00", "cierre": "17:00" },
+    "servicios": ["recepción"]
+  },
+  {
+    "codigo": "OFI009",
+    "ciudad": "Villavicencio",
+    "direccion": "Cra. 40 #22-15, Barzal",
+    "telefono": "+57 8 6712345",
+    "email": "villavicencio@logixpress.com",
+    "horario": { "apertura": "08:30", "cierre": "17:30" },
+    "servicios": ["recepción", "distribución"]
+  },
+  {
+    "codigo": "OFI010",
+    "ciudad": "Manizales",
+    "direccion": "Cl. 19 #21-45, Chipre",
+    "telefono": "+57 6 8890123",
+    "email": "manizales@logixpress.com",
+    "horario": { "apertura": "08:00", "cierre": "18:00" },
+    "servicios": ["recepción", "almacenamiento"]
+  }
+]
