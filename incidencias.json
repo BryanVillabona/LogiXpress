@@ -1,0 +1,102 @@
+[
+  {
+    "codigo_incidencia": "INC001",
+    "envio_id": "ENV002",
+    "repartidor_id": "REP002",
+    "tipo": "Retraso en entrega",
+    "descripcion": "El vehículo se averió en carretera y la entrega se retrasó 1 día.",
+    "fecha_reporte": "2025-08-03",
+    "estado": "resuelta",
+    "acciones_tomadas": ["Cliente notificado", "Entrega reprogramada"]
+  },
+  {
+    "codigo_incidencia": "INC002",
+    "envio_id": "ENV004",
+    "repartidor_id": "REP003",
+    "tipo": "Dirección incorrecta",
+    "descripcion": "La dirección de entrega estaba mal registrada, se corrigió tras llamar al cliente.",
+    "fecha_reporte": "2025-08-02",
+    "estado": "resuelta",
+    "acciones_tomadas": ["Cliente contactado", "Ruta ajustada"]
+  },
+  {
+    "codigo_incidencia": "INC003",
+    "envio_id": "ENV005",
+    "repartidor_id": "REP005",
+    "tipo": "Paquete dañado",
+    "descripcion": "La caja llegó con daños visibles en la superficie.",
+    "fecha_reporte": "2025-07-30",
+    "estado": "pendiente",
+    "acciones_tomadas": ["Cliente informado", "En investigación"]
+  },
+  {
+    "codigo_incidencia": "INC004",
+    "envio_id": "ENV007",
+    "repartidor_id": "REP006",
+    "tipo": "Ausencia del destinatario",
+    "descripcion": "Se intentó entregar en la dirección pero no había nadie disponible.",
+    "fecha_reporte": "2025-08-05",
+    "estado": "pendiente",
+    "acciones_tomadas": ["Entrega reprogramada"]
+  },
+  {
+    "codigo_incidencia": "INC005",
+    "envio_id": "ENV008",
+    "repartidor_id": "REP007",
+    "tipo": "Error en clasificación",
+    "descripcion": "El paquete fue enviado inicialmente a la oficina equivocada.",
+    "fecha_reporte": "2025-08-02",
+    "estado": "resuelta",
+    "acciones_tomadas": ["Reasignación de ruta"]
+  },
+  {
+    "codigo_incidencia": "INC006",
+    "envio_id": "ENV003",
+    "repartidor_id": "REP004",
+    "tipo": "Retraso por tráfico",
+    "descripcion": "El envío se retrasó por un accidente en la vía principal.",
+    "fecha_reporte": "2025-08-03",
+    "estado": "resuelta",
+    "acciones_tomadas": ["Cliente notificado"]
+  },
+  {
+    "codigo_incidencia": "INC007",
+    "envio_id": "ENV009",
+    "repartidor_id": "REP008",
+    "tipo": "Paquete extraviado",
+    "descripcion": "El paquete no fue localizado en la bodega de destino.",
+    "fecha_reporte": "2025-08-04",
+    "estado": "pendiente",
+    "acciones_tomadas": ["Investigación en curso"]
+  },
+  {
+    "codigo_incidencia": "INC008",
+    "envio_id": "ENV006",
+    "repartidor_id": "REP009",
+    "tipo": "Entrega parcial",
+    "descripcion": "El cliente recibió solo una parte del pedido, falta un paquete.",
+    "fecha_reporte": "2025-08-04",
+    "estado": "pendiente",
+    "acciones_tomadas": ["Revisión de inventario"]
+  },
+  {
+    "codigo_incidencia": "INC009",
+    "envio_id": "ENV001",
+    "repartidor_id": "REP001",
+    "tipo": "Demora en recogida",
+    "descripcion": "El repartidor se retrasó en recoger el paquete en la oficina.",
+    "fecha_reporte": "2025-08-01",
+    "estado": "resuelta",
+    "acciones_tomadas": ["Cliente compensado con cupón"]
+  },
+  {
+    "codigo_incidencia": "INC010",
+    "envio_id": "ENV010",
+    "repartidor_id": "REP010",
+    "tipo": "Paquete abierto",
+    "descripcion": "El paquete llegó al cliente con el sello roto.",
+    "fecha_reporte": "2025-08-06",
+    "estado": "pendiente",
+    "acciones_tomadas": ["Inspección en curso"]
+  }
+]
