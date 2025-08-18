@@ -1,0 +1,162 @@
+[
+  {
+    "ticket_id": "SUP001",
+    "cliente_id": "CLI001",
+    "incidencia_id": "INC003",
+    "asunto": "Paquete dañado",
+    "descripcion": "Mi paquete llegó con la caja rota y con contenido en mal estado.",
+    "fecha_creacion": "2025-08-01",
+    "estado": "abierto",
+    "respuestas": [
+      {
+        "fecha": "2025-08-01",
+        "agente": "Mariana López",
+        "mensaje": "Hemos recibido su caso, lo estamos revisando."
+      }
+    ]
+  },
+  {
+    "ticket_id": "SUP002",
+    "cliente_id": "CLI002",
+    "incidencia_id": "INC004",
+    "asunto": "No estaba en casa",
+    "descripcion": "Me llamaron pero no pude recibir el paquete, necesito reprogramar.",
+    "fecha_creacion": "2025-08-02",
+    "estado": "resuelto",
+    "respuestas": [
+      {
+        "fecha": "2025-08-02",
+        "agente": "Carlos Ramírez",
+        "mensaje": "Hemos reprogramado la entrega para mañana en la tarde."
+      }
+    ]
+  },
+  {
+    "ticket_id": "SUP003",
+    "cliente_id": "CLI004",
+    "incidencia_id": "INC002",
+    "asunto": "Dirección incorrecta",
+    "descripcion": "La dirección en el sistema estaba incompleta, tuve que llamar.",
+    "fecha_creacion": "2025-08-02",
+    "estado": "cerrado",
+    "respuestas": [
+      {
+        "fecha": "2025-08-03",
+        "agente": "Laura Gómez",
+        "mensaje": "Confirmamos que la dirección fue actualizada correctamente."
+      }
+    ]
+  },
+  {
+    "ticket_id": "SUP004",
+    "cliente_id": "CLI006",
+    "incidencia_id": "INC007",
+    "asunto": "Paquete perdido",
+    "descripcion": "No encuentro mi paquete en la oficina de destino.",
+    "fecha_creacion": "2025-08-04",
+    "estado": "abierto",
+    "respuestas": [
+      {
+        "fecha": "2025-08-04",
+        "agente": "Jorge Medina",
+        "mensaje": "Estamos investigando con el área de logística."
+      }
+    ]
+  },
+  {
+    "ticket_id": "SUP005",
+    "cliente_id": "CLI007",
+    "incidencia_id": "INC006",
+    "asunto": "Retraso por tráfico",
+    "descripcion": "Mi envío llegó tarde por problemas de tránsito.",
+    "fecha_creacion": "2025-08-03",
+    "estado": "resuelto",
+    "respuestas": [
+      {
+        "fecha": "2025-08-03",
+        "agente": "Paola Jiménez",
+        "mensaje": "Le pedimos disculpas, la entrega fue completada el mismo día."
+      }
+    ]
+  },
+  {
+    "ticket_id": "SUP006",
+    "cliente_id": "CLI009",
+    "incidencia_id": "INC010",
+    "asunto": "Paquete abierto",
+    "descripcion": "El paquete llegó con el sello roto y quiero una revisión.",
+    "fecha_creacion": "2025-08-06",
+    "estado": "abierto",
+    "respuestas": [
+      {
+        "fecha": "2025-08-06",
+        "agente": "Andrés Pérez",
+        "mensaje": "Hemos iniciado una inspección de seguridad."
+      }
+    ]
+  },
+  {
+    "ticket_id": "SUP007",
+    "cliente_id": "CLI003",
+    "incidencia_id": "INC009",
+    "asunto": "Demora en recogida",
+    "descripcion": "El repartidor tardó más de 2 horas en recoger mi paquete.",
+    "fecha_creacion": "2025-08-01",
+    "estado": "cerrado",
+    "respuestas": [
+      {
+        "fecha": "2025-08-01",
+        "agente": "Mariana López",
+        "mensaje": "Hemos compensado con un cupón de descuento."
+      }
+    ]
+  },
+  {
+    "ticket_id": "SUP008",
+    "cliente_id": "CLI005",
+    "incidencia_id": "INC008",
+    "asunto": "Entrega incompleta",
+    "descripcion": "Solo recibí un paquete de los dos que debía llegar.",
+    "fecha_creacion": "2025-08-04",
+    "estado": "abierto",
+    "respuestas": [
+      {
+        "fecha": "2025-08-05",
+        "agente": "Carlos Ramírez",
+        "mensaje": "Estamos verificando el inventario en la oficina de Medellín."
+      }
+    ]
+  },
+  {
+    "ticket_id": "SUP009",
+    "cliente_id": "CLI010",
+    "incidencia_id": "INC001",
+    "asunto": "Retraso en entrega",
+    "descripcion": "Mi paquete debía llegar el lunes y llegó un día después.",
+    "fecha_creacion": "2025-08-03",
+    "estado": "resuelto",
+    "respuestas": [
+      {
+        "fecha": "2025-08-03",
+        "agente": "Laura Gómez",
+        "mensaje": "El retraso fue por avería del vehículo, ya fue solucionado."
+      }
+    ]
+  },
+  {
+    "ticket_id": "SUP010",
+    "cliente_id": "CLI008",
+    "incidencia_id": "INC005",
+    "asunto": "Error en clasificación",
+    "descripcion": "El paquete fue enviado primero a Bogotá en lugar de Medellín.",
+    "fecha_creacion": "2025-08-02",
+    "estado": "cerrado",
+    "respuestas": [
+      {
+        "fecha": "2025-08-02",
+        "agente": "Jorge Medina",
+        "mensaje": "Se corrigió el error y el paquete ya está en ruta correcta."
+      }
+    ]
+  }
+]
