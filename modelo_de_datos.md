@@ -42,12 +42,12 @@
 
 ---
 
-## 3) Colecciones y campos principales (con ejemplos REALES)
+## 3) Colecciones y campos principales
 
 
 ### oficinas
 
-**Documento de ejemplo (real del dataset):**
+**Documento de ejemplo:**
 
 ```json
 
@@ -101,7 +101,7 @@
 
 ### clientes
 
-**Documento de ejemplo (real del dataset):**
+**Documento de ejemplo:**
 
 ```json
 
@@ -167,7 +167,7 @@
 
 ### repartidores
 
-**Documento de ejemplo (real del dataset):**
+**Documento de ejemplo:**
 
 ```json
 
@@ -215,7 +215,7 @@
 
 ### vehiculos
 
-**Documento de ejemplo (real del dataset):**
+**Documento de ejemplo:**
 
 ```json
 
@@ -260,7 +260,7 @@
 
 ### rutas
 
-**Documento de ejemplo (real del dataset):**
+**Documento de ejemplo:**
 
 ```json
 
@@ -309,7 +309,7 @@
 
 ### envios
 
-**Documento de ejemplo (real del dataset):**
+**Documento de ejemplo:**
 
 ```json
 
@@ -390,7 +390,7 @@
 
 ### facturas
 
-**Documento de ejemplo (real del dataset):**
+**Documento de ejemplo:**
 
 ```json
 
@@ -447,7 +447,7 @@
 
 ### incidencias
 
-**Documento de ejemplo (real del dataset):**
+**Documento de ejemplo:**
 
 ```json
 
@@ -495,7 +495,7 @@
 
 ### soporte
 
-**Documento de ejemplo (real del dataset):**
+**Documento de ejemplo:**
 
 ```json
 
